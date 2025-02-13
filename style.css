@@ -256,7 +256,7 @@ header {
     float: right;
     border-radius: 10px;
     animation: slideUp 10s;
-    transform: scale(1.2);
+    
 }
 
 body {
