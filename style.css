@@ -93,7 +93,7 @@ body {
     animation-name: slideUp; 
     animation-duration:10s;
     
-        transform: scale(1.5); /* Increases size by 1.5 times */
+        transform: scale(1.0); /* Increases size by 1.5 times */
       
       
 }
