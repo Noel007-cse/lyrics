@@ -237,7 +237,7 @@ header {
 }
 
 /* Responsive Image Styles */
-#img2, #img3, #img4 {
+#img2, #img3,#img4 {
     max-width: 100%;
     height: auto;
     margin: 10px;
@@ -360,6 +360,9 @@ button:hover {
     header {
         padding: 15px;
     }
+    #img4{
+        display:none;
+    }
    
 }
 
@@ -375,6 +378,9 @@ button:hover {
         display: block;
         margin: 10px auto;
         text-align: center;
+    }
+    #img4{
+        display:none;
     }
     .container {
         flex-direction: column;
@@ -392,6 +398,9 @@ button:hover {
     }
     .other2 {
         font-size: 1.5rem;
+    }
+    #img4{
+        display:none;
     }
     button {
         font-size: 14px;
